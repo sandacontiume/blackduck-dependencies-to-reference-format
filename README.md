@@ -1,4 +1,7 @@
 # blackduck-dependencies-to-reference-format
+[![NPM](https://img.shields.io/npm/v/blackduck-dependencies-to-reference-format.svg)]()
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=philips-software_blackduck-dependencies-to-reference-format&metric=alert_status)](https://sonarcloud.io/dashboard?id=philips-software_blackduck-dependencies-to-reference-format)
+
 ## Description
 Extracts dependencies from the source.csv artifact of tool __detect__ from BlackDuck (Synopsis).
 Optionally, adds information on the licenses.
